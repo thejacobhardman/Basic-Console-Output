@@ -9,9 +9,7 @@ using namespace std;
 
 int main()
 {
-    //cout << "Generic McNobody\n123 Wallaby Way, Kangaroo City CO 12345\n(123) 456-7890\nSoftware Engineering Major.";
-
-	/*
+    cout << "Generic McNobody\n123 Wallaby Way, Kangaroo City CO 12345\n(123) 456-7890\nSoftware Engineering Major.\n";
 
 	int spaces = 6;
 	int count = 1;
@@ -31,10 +29,6 @@ int main()
 		count -= 2;
 	}
 
-	*/
-
-	/*
-	
 	cout << "Data Type:				Data Size:" << endl;
 	for (int i = 0; i < 11; i++) {
 		cout << string(i, '-');
@@ -44,6 +38,4 @@ int main()
 	cout << "int					" << sizeof(int) <<endl;
 	cout << "float					" << sizeof(float) << endl;
 	cout << "double					" << sizeof(double) <<endl;
-
-	*/
 }
